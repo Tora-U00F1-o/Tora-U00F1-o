@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Toraño, Un real Botiju
 - 👀 I’m interested in valorant
-- 🌱 I’m currently learning in how to kil player
+- 🌱 I’m currently learning in how to kill jett mains
 - 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me -> just light up the sky
