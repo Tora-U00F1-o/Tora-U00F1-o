@@ -3,3 +3,6 @@
 - 🌱 I’m currently learning in how to kill jett mains
 - 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me -> just light up the sky
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
