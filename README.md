@@ -1,3 +1,4 @@
+![Banner](https://github.com/Tora-U00F1-o/Tora-U00F1-o/blob/main/img/banner.png)
 - 👋 Hi, I’m Toraño, Un real Botiju
 - 👀 I’m interested in valorant
 - 🌱 I’m currently learning in how to kill jett mains
