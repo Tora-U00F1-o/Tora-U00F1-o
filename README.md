@@ -1,5 +1,5 @@
 # Hi, I'm Jorge Toraño <img src="img/hello.gif" width="30">
-<img src='img/banner.png' alt="banner" width='500%'></img>
+<!---no se como llegaste aquí, pero ya me jodería <img src='img/banner.png' alt="banner" width='500%'></img> --->
 
 
 ## 🧐 About
