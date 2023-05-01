@@ -1,7 +1,12 @@
 # Hi, I'm Jorge Toraño <img src="img/hello.gif" width="30">
 <!---no se como llegaste aquí, pero ya me jodería <img src='img/banner.png' alt="banner" width='500%'></img> --->
 
+```python
+print(''.join([chr(num) for num in [84, 111, 114, 97, 45, 85, 48, 48, 70, 49, 45, 111]]))
 ```
+
+
+```python
                                                            ---:::---         
                                                        -----:::::::-----                                                       
                                             ---::::+:::::::+++::::++:::::::+::::---                                            
@@ -40,7 +45,7 @@
 
 - [<img src='img/outlook.png' alt="outlookIcon" width="20" align="middle"></img>](mailto:UO276853@uniovi.es) uo276853@uniovi.es
 
-## 🐨 Se hacer de tou chaval:
+## 🐨 Cositas majo
 
 ![](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
